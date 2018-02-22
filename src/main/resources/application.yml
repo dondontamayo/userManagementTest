@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user-management-test
+
+server:
+  port: 8081
+
+folder.drive: c:\temp
